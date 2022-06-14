@@ -11,7 +11,7 @@ All the required files to be installed are marked as !
 Requested to have python  or python 3
 
 
-## Instruction to Run SR and SON
+## Instruction to Run
 
 Open Google Collab, Vs code that allows you to execute ipynb files.
 
